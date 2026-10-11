@@ -1,0 +1,11 @@
+{
+  "name": "Al-Hikmah Secure Educational Platform for Banat",
+  "description": "Secure, all-in-one digital learning platform for Islamic institutes and female students with live classes, private messaging, digital library, and AI study tools.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
